@@ -1,17 +1,28 @@
-NET BE IT
-Network Engineering, Security & Automation
+# NET BE IT
 
-Specializations
-Fortinet
-Cisco
-Network Automation
-NetBox
-Python
-Ansible
-Terraform
-Current Projects
-NetBox Lab
-FortiGate Automation
-Infrastructure as Code
-Source of Truth Automation
-Founded by Brian Ellensburg
+**Network Engineering • Security • Automation**
+
+## Specializations
+
+- Fortinet
+- Cisco
+- Network Automation
+- NetBox
+- Python
+- Ansible
+- Terraform
+
+## Current Projects
+
+- NetBox Lab
+- FortiGate Automation
+- Infrastructure as Code
+- Source of Truth Automation
+
+## Vision
+
+Building network automation solutions that combine infrastructure, source-of-truth systems and infrastructure-as-code practices.
+
+## Founder
+
+Brian Ellensburg
