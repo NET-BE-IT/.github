@@ -1,6 +1,6 @@
 # NET BE IT
 
-**Network Engineering • Security • Automation**
+**Network Engineering • Infrastucture • Automation**
 
 ## Specializations
 
